@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MIT
+// Copyright (c) 2026 anywaysoft
+
 /**
  * Annushka Watchdog - Workspace Add-on implementation.
  * Configure via Add-on UI (stored in Script Properties).
