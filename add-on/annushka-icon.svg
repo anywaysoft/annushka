@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="Annushka oil">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8e6c1"/>
+      <stop offset="100%" stop-color="#e9c07d"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="256" height="256" rx="28" fill="url(#bg)"/>
+
+  <!-- oil can -->
+  <rect x="52" y="84" width="120" height="96" rx="10" fill="#5a3d2b"/>
+  <rect x="66" y="74" width="92" height="18" rx="6" fill="#5a3d2b"/>
+  <rect x="90" y="108" width="44" height="44" rx="6" fill="#f0d7a2"/>
+
+  <!-- spout -->
+  <rect x="168" y="102" width="38" height="14" rx="6" fill="#5a3d2b"/>
+  <rect x="196" y="96" width="12" height="26" rx="5" fill="#5a3d2b"/>
+
+  <!-- droplet -->
+  <path d="M206 142c10 16 18 26 18 38a18 18 0 1 1-36 0c0-12 8-22 18-38z" fill="#8b5a2b"/>
+
+  <!-- highlight -->
+  <path d="M72 96c18-10 40-12 68-8" stroke="#b08b5a" stroke-width="6" stroke-linecap="round"/>
+</svg>
